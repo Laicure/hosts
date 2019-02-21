@@ -1,11 +1,11 @@
-# Entries: 38,962
-# As of 2019-02-20 11:11:12.73 UTC
+# Entries: 38,971
+# As of 2019-02-21 10:35:15.17 UTC
 # Generated using github.com/Laicure/HostsY
 
-# Sources [14 @ 43,787]
+# Sources [14 @ 43,796]
 # [3,642] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # [2,846] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# [1,560] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+# [1,569] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # [935] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # [10] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # [409] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -6576,6 +6576,7 @@
 0.0.0.0 aoc.teleaudio.pl
 0.0.0.0 apartamentypoleska.pl
 0.0.0.0 api.myeforsa.pl
+0.0.0.0 app8671.something-wrong5.agency
 0.0.0.0 appcaptcha.com
 0.0.0.0 appfox.org
 0.0.0.0 appgasstation.com
@@ -6694,6 +6695,7 @@
 0.0.0.0 ciekawinki.pl
 0.0.0.0 cinema-online.pl
 0.0.0.0 cinemateka.pl
+0.0.0.0 clube62.date
 0.0.0.0 colors-app.blogspot.com
 0.0.0.0 colway.pl
 0.0.0.0 colwayinternational.com
@@ -6836,6 +6838,7 @@
 0.0.0.0 exeos.ws
 0.0.0.0 exitopolska.com
 0.0.0.0 extragenerators.xyz
+0.0.0.0 exxotel.com
 0.0.0.0 ezdownloadpro.info
 0.0.0.0 f4u.pl
 0.0.0.0 faberlic.com
@@ -7279,6 +7282,7 @@
 0.0.0.0 neospes.com
 0.0.0.0 neotech.in.net
 0.0.0.0 netleaders.com
+0.0.0.0 nevotel.com
 0.0.0.0 newmediaz.com
 0.0.0.0 newpassporn.com
 0.0.0.0 news-onet24.pl
@@ -7505,6 +7509,7 @@
 0.0.0.0 quiz-fun.com.my
 0.0.0.0 quizzstar.com
 0.0.0.0 qwer3.pl
+0.0.0.0 r.clube62.date
 0.0.0.0 r.xyz1.pl
 0.0.0.0 ramissio.com
 0.0.0.0 randki-sex.com
@@ -7595,6 +7600,8 @@
 0.0.0.0 soft4click.com
 0.0.0.0 softsmart.mobi
 0.0.0.0 solvusoft.com
+0.0.0.0 something-wrong5.agency
+0.0.0.0 something-wrong9.agency
 0.0.0.0 spaceforyou.cc
 0.0.0.0 spatiumdg.pl
 0.0.0.0 special-promotion.online
@@ -7637,6 +7644,7 @@
 0.0.0.0 supermedia24.pl
 0.0.0.0 superserwisy.pl
 0.0.0.0 super-tania-chwilowka.pl
+0.0.0.0 sweeps3093.something-wrong9.agency
 0.0.0.0 sweepstakescentralusa.com
 0.0.0.0 swiatpobran.pl
 0.0.0.0 swiezaki.weebly.com
@@ -7840,6 +7848,7 @@
 0.0.0.0 www.centrumfilmowe.bc43.pl
 0.0.0.0 www.centrum-kredytowe.net
 0.0.0.0 www.cichodaje.pl
+0.0.0.0 www.clube62.date
 0.0.0.0 www.colorcredit.pl
 0.0.0.0 www.colway-international.com.pl
 0.0.0.0 www.colway-kolagen.com
