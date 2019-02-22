@@ -1,11 +1,11 @@
-# Entries: 38,971
-# As of 2019-02-21 10:35:15.17 UTC
+# Entries: 38,979
+# As of 2019-02-22 08:25:39.32 UTC
 # Generated using github.com/Laicure/HostsY
 
-# Sources [14 @ 43,796]
+# Sources [14 @ 43,805]
 # [3,642] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # [2,846] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# [1,569] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+# [1,582] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # [935] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # [10] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # [409] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -13,7 +13,7 @@
 # [21] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
 # [2,582] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # [74] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-# [1,109] http://www.malwaredomainlist.com/hostslist/hosts.txt
+# [1,105] http://www.malwaredomainlist.com/hostslist/hosts.txt
 # [12,226] http://winhelp2002.mvps.org/hosts.txt
 # [14,124] https://someonewhocares.org/hosts/zero/hosts
 # [2,965] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -6528,6 +6528,7 @@
 0.0.0.0 7tools.eu
 0.0.0.0 9xa.pl
 0.0.0.0 ab4hr.com
+0.0.0.0 abbp35.com
 0.0.0.0 acaiberryextreme.pl
 0.0.0.0 ace.jamba.pl
 0.0.0.0 ace.jamster.pl
@@ -6793,6 +6794,7 @@
 0.0.0.0 dvzwh.voluumtrk.com
 0.0.0.0 dw.lp.eu.emobi-sys.com
 0.0.0.0 dwnlad.ws
+0.0.0.0 dzisiejszefakty.xyz
 0.0.0.0 earthpowerint.com
 0.0.0.0 easy.eu.ai
 0.0.0.0 easydownload.pl
@@ -6962,6 +6964,7 @@
 0.0.0.0 futurepay.globway.eu
 0.0.0.0 galatransmisja.pe.hu
 0.0.0.0 galeria-zdjec-ola.pl
+0.0.0.0 gamefiles.pl
 0.0.0.0 game-hack.biz
 0.0.0.0 gameinstallfiles.com
 0.0.0.0 gamemine.com
@@ -7008,7 +7011,9 @@
 0.0.0.0 greerlies.pro
 0.0.0.0 grumman.pl
 0.0.0.0 grupamaxi.pl
+0.0.0.0 grynanecie.pl
 0.0.0.0 gw.firesub.pl
+0.0.0.0 hackerbot.net
 0.0.0.0 hackidogier.pl
 0.0.0.0 hackidomsp.blogspot.com
 0.0.0.0 halodzwonek.pl
@@ -7088,7 +7093,6 @@
 0.0.0.0 jedz-eco.pl
 0.0.0.0 jerzyzieba.com
 0.0.0.0 jetparty.net
-0.0.0.0 johnsmithsmethod.com
 0.0.0.0 jordenmadsen.com
 0.0.0.0 juicywin.pl
 0.0.0.0 jump.ogtrk.net
@@ -7164,6 +7168,7 @@
 0.0.0.0 lnaff.pl
 0.0.0.0 lnktk.com
 0.0.0.0 lnpush.pl
+0.0.0.0 localmeets.club
 0.0.0.0 loktrk.com
 0.0.0.0 longup.co
 0.0.0.0 looool.pl
@@ -7199,7 +7204,7 @@
 0.0.0.0 megadown.us
 0.0.0.0 megadownloader.co
 0.0.0.0 mega-gry.com
-0.0.0.0 megalinguo.com
+0.0.0.0 megazakupy.net
 0.0.0.0 mememakers.mobi
 0.0.0.0 menshealthweb.co
 0.0.0.0 mezczyzna-trendy.pl
@@ -7207,6 +7212,7 @@
 0.0.0.0 mieszkania-pokoje-wynajem.pl
 0.0.0.0 mmajerski.pl
 0.0.0.0 mobcontentxx.com
+0.0.0.0 mobgames.mobi
 0.0.0.0 mobiapp-games.com
 0.0.0.0 mobicpi.com
 0.0.0.0 mobila.pl
@@ -7234,6 +7240,7 @@
 0.0.0.0 mon.trackmysales.website
 0.0.0.0 monetizer.info
 0.0.0.0 monthlywinners.com
+0.0.0.0 mordi.fun
 0.0.0.0 morele.info
 0.0.0.0 motifiles.com
 0.0.0.0 motyw-fb.blogspot.com
@@ -7272,7 +7279,6 @@
 0.0.0.0 nasdacoin.io
 0.0.0.0 nastim.pl
 0.0.0.0 naszasa.pl
-0.0.0.0 naszesprawdziany.pl
 0.0.0.0 naturabazar.pl
 0.0.0.0 naturday.pl
 0.0.0.0 needforfile.net
@@ -7324,6 +7330,7 @@
 0.0.0.0 onef.cf
 0.0.0.0 onliine.pl
 0.0.0.0 online.pro
+0.0.0.0 onlineappcheats.com
 0.0.0.0 onlinerekruter.com
 0.0.0.0 onlineslotmaschine.com
 0.0.0.0 onlyfiles.net
@@ -7347,10 +7354,12 @@
 0.0.0.0 pamietnikiwampirow.tv
 0.0.0.0 pandorabizuteria.pl
 0.0.0.0 papla.pl
+0.0.0.0 paraphingxmfevapk.xyz
 0.0.0.0 parkingcrew.net
 0.0.0.0 patterntrader.biz
 0.0.0.0 paulinajanowicz.pl
 0.0.0.0 pay.mobiltek.pl
+0.0.0.0 pay.onebip.com
 0.0.0.0 pay24iv.com
 0.0.0.0 pay2me.pl
 0.0.0.0 pc-data.pl
@@ -7449,6 +7458,7 @@
 0.0.0.0 polska-tv.pl
 0.0.0.0 polskieinfo365.wordpress.com
 0.0.0.0 pomocnapozyczka.pro
+0.0.0.0 poprof.com
 0.0.0.0 powerfactorsaver.com
 0.0.0.0 pozyczaj.online.pl
 0.0.0.0 pozyczka.click
@@ -7498,7 +7508,6 @@
 0.0.0.0 publisher.lead.network
 0.0.0.0 punkt-pozyczka.pl
 0.0.0.0 push-notification.tools
-0.0.0.0 pynio.pl
 0.0.0.0 pyracity.info
 0.0.0.0 pz21.pl
 0.0.0.0 qpodgladacz.glt.pl
@@ -7554,7 +7563,9 @@
 0.0.0.0 samsung-win-1k.com
 0.0.0.0 samsung-win-2k.com
 0.0.0.0 samsung-win-3k.com
+0.0.0.0 sapynews.com
 0.0.0.0 sc21.pl
+0.0.0.0 schington.com
 0.0.0.0 seans24.com.pl
 0.0.0.0 seanse24.pl
 0.0.0.0 searchrapid.pl
@@ -7599,6 +7610,7 @@
 0.0.0.0 snekdeal.com
 0.0.0.0 soft4click.com
 0.0.0.0 softsmart.mobi
+0.0.0.0 solucjegier.pl
 0.0.0.0 solvusoft.com
 0.0.0.0 something-wrong5.agency
 0.0.0.0 something-wrong9.agency
@@ -7646,8 +7658,8 @@
 0.0.0.0 super-tania-chwilowka.pl
 0.0.0.0 sweeps3093.something-wrong9.agency
 0.0.0.0 sweepstakescentralusa.com
-0.0.0.0 swiatpobran.pl
 0.0.0.0 swiezaki.weebly.com
+0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 szaloneupusty.pl
 0.0.0.0 szamponrevita.pl
 0.0.0.0 szczepienie.info
@@ -7705,6 +7717,7 @@
 0.0.0.0 trackgsm.pl
 0.0.0.0 tracksms.pl
 0.0.0.0 tradeit.cash
+0.0.0.0 traffic-c.com
 0.0.0.0 trafisz.com
 0.0.0.0 transmisje24.net
 0.0.0.0 tri-book.pl
@@ -7946,6 +7959,7 @@
 0.0.0.0 www.pierre-lang.com
 0.0.0.0 www.pm-international.com
 0.0.0.0 www.popcornvod.com
+0.0.0.0 www.poprof.com
 0.0.0.0 www.pozycjeseksualne.pl
 0.0.0.0 www.pozyczkanatelefon24.pl
 0.0.0.0 www.prevalue.pl
@@ -8040,7 +8054,6 @@
 0.0.0.0 zarabiajwsieci.eu
 0.0.0.0 zarabianiefb.club
 0.0.0.0 zarejestruj-sie.pl
-0.0.0.0 zarobekok.pl
 0.0.0.0 zasilkonto.cba.pl
 0.0.0.0 zasil-konto.tk
 0.0.0.0 zastrzyk-gotowki.waw.pl
@@ -13851,7 +13864,6 @@
 0.0.0.0 sgs.us.com
 0.0.0.0 shoal.grahanusareadymix.com
 0.0.0.0 shovi.frost-electric-supply.com
-0.0.0.0 signready.com
 0.0.0.0 silurian.cn
 0.0.0.0 simpi.tourstogo.us
 0.0.0.0 site-checksite.tk
@@ -14042,7 +14054,6 @@
 0.0.0.0 websalesusa.com
 0.0.0.0 web-sensations.com
 0.0.0.0 websitebuildersinfo.in
-0.0.0.0 welington.info
 0.0.0.0 wetjane.x10.mx
 0.0.0.0 wetyt.tourstogo.us
 0.0.0.0 wfoto.front.ru
@@ -14096,7 +14107,6 @@
 0.0.0.0 www.fabioalbini.com
 0.0.0.0 www.family-partners.fr
 0.0.0.0 www.fasadobygg.com
-0.0.0.0 www.fiocchidiriso.com
 0.0.0.0 www.fsm-europe.eu
 0.0.0.0 www.gasthofpost-ebs.de
 0.0.0.0 www.gennaroespositomilano.it
@@ -14115,7 +14125,6 @@
 0.0.0.0 www.lifelabs.vn
 0.0.0.0 www.litra.com.mk
 0.0.0.0 www.lowes-pianos-and-organs.com
-0.0.0.0 www.luce.polimi.it
 0.0.0.0 www.lyzgs.com
 0.0.0.0 www.makohela.tk
 0.0.0.0 www.marss.eu
@@ -33784,7 +33793,6 @@
 0.0.0.0 syncaccess.net
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 syndicated.mondominishows.com
-0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 sysadmin.map24.com
 0.0.0.0 sysip.net
 0.0.0.0 system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net
