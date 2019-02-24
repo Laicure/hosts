@@ -3,16 +3,12 @@
 ##### Custom hosts file's sources and whitelist ([hosts](https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/hosts)):
 ```
 https://gist.githubusercontent.com/Laicure/cc9ca4d1d7f905581eccac0490162b7c/raw/shithosts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
-https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
