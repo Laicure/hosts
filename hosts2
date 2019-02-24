@@ -1,8 +1,8 @@
-# Entries: 38,979
-# As of 2019-02-22 08:25:39.32 UTC
+# Entries: 38,977
+# As of 2019-02-24 11:34:26.65 UTC
 # Generated using github.com/Laicure/HostsY
 
-# Sources [14 @ 43,805]
+# Sources [14 @ 43,802]
 # [3,642] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # [2,846] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # [1,582] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
@@ -16,7 +16,7 @@
 # [1,105] http://www.malwaredomainlist.com/hostslist/hosts.txt
 # [12,226] http://winhelp2002.mvps.org/hosts.txt
 # [14,124] https://someonewhocares.org/hosts/zero/hosts
-# [2,965] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+# [2,962] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
 # Loopbacks
 127.0.0.1 localhost
@@ -37566,7 +37566,6 @@
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
 0.0.0.0 casinotreasure.com
-0.0.0.0 casterist.info
 0.0.0.0 cbsi.com
 0.0.0.0 centerpointmedia.com
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
@@ -37978,7 +37977,6 @@
 0.0.0.0 i1img.com
 0.0.0.0 i1media.no
 0.0.0.0 ia.iinfo.cz
-0.0.0.0 iadnet.com
 0.0.0.0 iasds01.com
 0.0.0.0 i-clicks.net
 0.0.0.0 iconadserver.com
@@ -38201,7 +38199,7 @@
 0.0.0.0 modifyeyes.com
 0.0.0.0 moggattice.com
 0.0.0.0 moldyicicle.com
-0.0.0.0 moneyexpert.com
+0.0.0.0 moneyexpert.co.uk
 0.0.0.0 monsterpops.com
 0.0.0.0 mookie1.com
 0.0.0.0 mopub.com
@@ -38331,6 +38329,7 @@
 0.0.0.0 pagerank4you.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
+0.0.0.0 pageranktop.com
 0.0.0.0 paleleaf.com
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parchedangle.com
@@ -38420,7 +38419,6 @@
 0.0.0.0 props.id
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com
-0.0.0.0 provalist.info
 0.0.0.0 provexia.com
 0.0.0.0 provideplant.com
 0.0.0.0 prsitecheck.com
