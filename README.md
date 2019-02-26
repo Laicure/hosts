@@ -1,6 +1,6 @@
 # [HostsY](https://github.com/Laicure/HostsY) generated hosts files
 
-##### Custom hosts file's sources and whitelist ([hosts](https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/hosts)):
+##### Custom hosts file's sources [hosts](https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/hosts)):
 ```
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
