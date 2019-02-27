@@ -1,11 +1,11 @@
-# Entries: 38,977
-# As of 2019-02-24 16:47:22.76 UTC
+# Entries: 38,972
+# As of 2019-02-27 15:32:32.16 UTC
 # Generated using github.com/Laicure/HostsY
 
-# Sources [14 @ 43,802]
+# Sources [14 @ 43,797]
 # [3,642] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # [2,846] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# [1,582] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+# [1,577] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # [935] https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # [10] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # [409] https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -6623,7 +6623,6 @@
 0.0.0.0 bestpromocenter.com
 0.0.0.0 best-rated-offers.com
 0.0.0.0 bestselections.top
-0.0.0.0 best-wygrane.com.pl
 0.0.0.0 be-wild.pl
 0.0.0.0 bewox.net
 0.0.0.0 bezbiku.pro
@@ -7133,7 +7132,6 @@
 0.0.0.0 konkursy24.ml
 0.0.0.0 korphan.pl
 0.0.0.0 krdn.pl
-0.0.0.0 krebsmethod.com
 0.0.0.0 kredyt-na-pesel.pl
 0.0.0.0 kryptochemik.pl
 0.0.0.0 ksiazka-telefoniczna-online.pl
@@ -7653,7 +7651,6 @@
 0.0.0.0 sundaycashsaver.com
 0.0.0.0 superfiles.pl
 0.0.0.0 supermarket.zostan-zwyciezca.com
-0.0.0.0 supermedia24.pl
 0.0.0.0 superserwisy.pl
 0.0.0.0 super-tania-chwilowka.pl
 0.0.0.0 sweeps3093.something-wrong9.agency
@@ -7818,7 +7815,6 @@
 0.0.0.0 wirtualna-polska.site
 0.0.0.0 wirtuozseksu.pl
 0.0.0.0 wizjatv-kody.pl
-0.0.0.0 wniosek-24h.pl
 0.0.0.0 wniosek-online.co.pl
 0.0.0.0 wooptrk.com
 0.0.0.0 workwolf.pl
@@ -8028,7 +8024,6 @@
 0.0.0.0 wyspaofert.com
 0.0.0.0 xbox1emulator.org
 0.0.0.0 xbox360emulator.com
-0.0.0.0 xkomp.net
 0.0.0.0 xmlgrab.com
 0.0.0.0 xtrak.me
 0.0.0.0 xzegarsmiercix.prv.pl
