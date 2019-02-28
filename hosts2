@@ -1,8 +1,8 @@
-# Entries: 38,972
-# As of 2019-02-27 15:32:32.16 UTC
+# Entries: 38,976
+# As of 2019-02-28 20:02:54.57 UTC
 # Generated using github.com/Laicure/HostsY
 
-# Sources [14 @ 43,797]
+# Sources [14 @ 43,801]
 # [3,642] https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # [2,846] https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # [1,577] https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
@@ -15,7 +15,7 @@
 # [74] https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # [1,105] http://www.malwaredomainlist.com/hostslist/hosts.txt
 # [12,226] http://winhelp2002.mvps.org/hosts.txt
-# [14,124] https://someonewhocares.org/hosts/zero/hosts
+# [14,128] https://someonewhocares.org/hosts/zero/hosts
 # [2,962] https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
 # Loopbacks
@@ -24995,6 +24995,7 @@
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.directrev.com
 0.0.0.0 ad.doganburda.com
+0.0.0.0 ad.doublemax.net
 0.0.0.0 ad.download.net
 0.0.0.0 ad.duga.jp
 0.0.0.0 ad.egloos.com
@@ -25003,6 +25004,7 @@
 0.0.0.0 ad.eporner.com
 0.0.0.0 ad.espn.starwave.com
 0.0.0.0 ad.e-sport.com
+0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
 0.0.0.0 ad.favod.net
 0.0.0.0 ad.filmweb.pl
@@ -27506,6 +27508,7 @@
 0.0.0.0 berkleynude.ca.tt
 0.0.0.0 beseenad.looksmart.com
 0.0.0.0 bestgift4you.cn
+0.0.0.0 bestgore.com
 0.0.0.0 best-hir.com
 0.0.0.0 bestlolaray.com
 0.0.0.0 bestmmo2018.com
@@ -33286,6 +33289,7 @@
 0.0.0.0 sherkatkonandeh.com
 0.0.0.0 sherkhundi.com
 0.0.0.0 shinystat.shiny.it
+0.0.0.0 shockgore.com
 0.0.0.0 shop.kauffes.de
 0.0.0.0 shop.skin-safety.com
 0.0.0.0 shopperpromotions.com
