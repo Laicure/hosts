@@ -5,8 +5,6 @@
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
