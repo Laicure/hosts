@@ -2,8 +2,11 @@
 
 ##### Custom hosts file's sources ([hosts](https://bitbucket.org/Laicure/public/downloads/hosts)):
 ```
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
