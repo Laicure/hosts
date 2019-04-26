@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://hosts-file.net/ad_servers.txt
 https://hosts-file.net/exp.txt
@@ -42,6 +43,7 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 ```
 ##### [hpHosts](https://hosts-file.net/?s=Download)' _Individual Classifications_ sources ([hosts3](https://bitbucket.org/Laicure/public/downloads/hosts3)):
