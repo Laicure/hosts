@@ -40,13 +40,6 @@ https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
