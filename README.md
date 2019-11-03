@@ -56,6 +56,7 @@ https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/fan
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/fanboy-enhanced-stats.txt
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/fanboy-ultimate.txt
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/gnuzilla.txt
+https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/spam404.com-adblocklist.txt
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/uassets-annoyances.txt
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/uassets-badware.txt
 https://github.com/EnergizedProtection/block/raw/master/assets/active/filter/uassets-filters.txt
