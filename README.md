@@ -18,7 +18,6 @@ https://hosts-file.net/mmt.txt
 https://hosts-file.net/pup.txt
 
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
-https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
 
 https://block.energized.pro/assets/sources/filter/adguard-dns.txt
 https://block.energized.pro/assets/sources/filter/adguard-dutch-filter.txt
@@ -38,25 +37,6 @@ https://block.energized.pro/assets/sources/filter/adguard-spyware-firstparty.txt
 https://block.energized.pro/assets/sources/filter/adguard-spyware.txt
 https://block.energized.pro/assets/sources/filter/adguard-tracking.txt
 https://block.energized.pro/assets/sources/filter/adguard-turkish-filter.txt
-https://block.energized.pro/assets/sources/filter/antipopads.txt
-https://block.energized.pro/assets/sources/filter/disconnect.me-ad.txt
-https://block.energized.pro/assets/sources/filter/disconnect.me-malvertising.txt
-https://block.energized.pro/assets/sources/filter/disconnect.me-tracking.txt
-https://block.energized.pro/assets/sources/filter/easylist-adservers.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-adservers.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-specific.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-thirdparty.txt
-https://block.energized.pro/assets/sources/filter/easylist-lite.txt
-https://block.energized.pro/assets/sources/filter/easylist.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-specific.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-thirdparty.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-tracking-servers.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy.txt
-https://block.energized.pro/assets/sources/filter/fanboy-annoyance.txt
-https://block.energized.pro/assets/sources/filter/fanboy-enhanced-stats.txt
-https://block.energized.pro/assets/sources/filter/fanboy-ultimate.txt
-https://block.energized.pro/assets/sources/filter/gnuzilla.txt
-https://block.energized.pro/assets/sources/filter/spam404.com-adblocklist.txt
 https://block.energized.pro/assets/sources/filter/uassets-annoyances.txt
 https://block.energized.pro/assets/sources/filter/uassets-badware.txt
 https://block.energized.pro/assets/sources/filter/uassets-filters.txt
