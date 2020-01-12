@@ -71,6 +71,9 @@ https://block.energized.pro/assets/sources/filter/easyprivacy-specific.txt
 https://block.energized.pro/assets/sources/filter/easyprivacy-thirdparty.txt
 https://block.energized.pro/assets/sources/filter/easyprivacy-tracking-servers.txt
 https://block.energized.pro/assets/sources/filter/zerodot1-coinblockerlists-browser.txt
+
+whitelist:
+https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 ```
 ##### Raw [StevenBlack/hosts' data](https://github.com/StevenBlack/hosts/tree/master/data) sources ([hosts2](https://bitbucket.org/Laicure/public/downloads/hosts2)):
 ```
