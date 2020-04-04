@@ -19,14 +19,6 @@ https://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/fsa.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/hfs.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/mmt.txt
-https://hosts-file.net/psh.txt
-
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 
 https://block.energized.pro/assets/sources/filter/adaway.org.txt
@@ -106,19 +98,4 @@ http://winhelp2002.mvps.org/hosts.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
-```
-##### [hpHosts](https://hosts-file.net/?s=Download)' _Individual Classifications_ sources ([hosts3](https://bitbucket.org/Laicure/public/downloads/hosts3)):
-```
-https://hosts-file.net/ad_servers.txt
-https://hosts-file.net/emd.txt
-https://hosts-file.net/exp.txt
-https://hosts-file.net/fsa.txt
-https://hosts-file.net/grm.txt
-https://hosts-file.net/hfs.txt
-https://hosts-file.net/hjk.txt
-https://hosts-file.net/mmt.txt
-https://hosts-file.net/pha.txt
-https://hosts-file.net/psh.txt
-https://hosts-file.net/pup.txt
-https://hosts-file.net/wrz.txt
 ```
