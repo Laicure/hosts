@@ -76,6 +76,7 @@ https://block.energized.pro/assets/sources/filter/zerodot1-coinblockerlists-brow
 
 whitelist:
 https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
+kissmanga.com
 
 blacklist:
 ntp.msn.com <- I hate this shit, slowing down the homepage of Microsoft Edge
