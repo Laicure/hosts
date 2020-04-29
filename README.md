@@ -20,8 +20,8 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
-https://block.energized.pro/assets/sources/filter/adaway.org.txt
 https://block.energized.pro/assets/sources/filter/adguard-dns.txt
 https://block.energized.pro/assets/sources/filter/adguard-dutch-filter.txt
 https://block.energized.pro/assets/sources/filter/adguard-english-filter.txt
@@ -42,37 +42,6 @@ https://block.energized.pro/assets/sources/filter/adguard-turkish-filter.txt
 https://block.energized.pro/assets/sources/filter/disconnect.me-ad.txt
 https://block.energized.pro/assets/sources/filter/disconnect.me-malvertising.txt
 https://block.energized.pro/assets/sources/filter/disconnect.me-tracking.txt
-https://block.energized.pro/assets/sources/filter/dshield.org-high.txt
-https://block.energized.pro/assets/sources/filter/adware-filters.txt
-https://block.energized.pro/assets/sources/filter/fanboy-annoyance.txt
-https://block.energized.pro/assets/sources/filter/fanboy-complete.txt
-https://block.energized.pro/assets/sources/filter/fanboy-indian.txt
-https://block.energized.pro/assets/sources/filter/gnuzilla.txt
-https://block.energized.pro/assets/sources/filter/uassets-annoyances.txt
-https://block.energized.pro/assets/sources/filter/uassets-badware.txt
-https://block.energized.pro/assets/sources/filter/uassets-filters.txt
-https://block.energized.pro/assets/sources/filter/uassets-privacy.txt
-https://block.energized.pro/assets/sources/filter/easylist.txt
-https://block.energized.pro/assets/sources/filter/easylist-adservers.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-adservers.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-specific.txt
-https://block.energized.pro/assets/sources/filter/easylist-adult-thirdparty.txt
-https://block.energized.pro/assets/sources/filter/easylist-dutch.txt
-https://block.energized.pro/assets/sources/filter/easylist-french.txt
-https://block.energized.pro/assets/sources/filter/easylist-germany.txt
-https://block.energized.pro/assets/sources/filter/easylist-india.txt
-https://block.energized.pro/assets/sources/filter/easylist-italy.txt
-https://block.energized.pro/assets/sources/filter/easylist-korea.txt
-https://block.energized.pro/assets/sources/filter/easylist-latvian.txt
-https://block.energized.pro/assets/sources/filter/easylist-polish.txt
-https://block.energized.pro/assets/sources/filter/easylist-romanian.txt
-https://block.energized.pro/assets/sources/filter/easylist-russian.txt
-https://block.energized.pro/assets/sources/filter/easylist-spanish.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-specific.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-thirdparty.txt
-https://block.energized.pro/assets/sources/filter/easyprivacy-tracking-servers.txt
-https://block.energized.pro/assets/sources/filter/zerodot1-coinblockerlists-browser.txt
 
 whitelist:
 https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
