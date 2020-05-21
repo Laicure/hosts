@@ -1,4 +1,4 @@
-# [HostsY](https://github.com/Laicure/HostsY) generated hosts files
+# [HostsY](https://github.com/Laicure/HostsY) and [HostZ](https://github.com/Laicure/HostsZ) generated hosts files
 
 ##### Custom hosts file's sources ([hosts](https://bitbucket.org/Laicure/public/downloads/hosts)):
 ```
@@ -21,6 +21,33 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintex
 
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+
+https://block.energized.pro/assets/sources/filter/adguard-dns.txt
+https://block.energized.pro/assets/sources/filter/adguard-dutch-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-english-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-french-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-german-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-japanese-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-mobile-ads-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-mobile-ads.txt
+https://block.energized.pro/assets/sources/filter/adguard-mobile-specific.txt
+https://block.energized.pro/assets/sources/filter/adguard-russian-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-safari.txt
+https://block.energized.pro/assets/sources/filter/adguard-social-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-social-popups.txt
+https://block.energized.pro/assets/sources/filter/adguard-social-trackers.txt
+https://block.energized.pro/assets/sources/filter/adguard-spanish-portuguese-filter.txt
+https://block.energized.pro/assets/sources/filter/adguard-spyware-firstparty.txt
+https://block.energized.pro/assets/sources/filter/adguard-spyware.txt
+https://block.energized.pro/assets/sources/filter/adguard-tracking.txt
+https://block.energized.pro/assets/sources/filter/adguard-turkish-filter.txt
+https://block.energized.pro/assets/sources/filter/disconnect.me-ad.txt
+https://block.energized.pro/assets/sources/filter/disconnect.me-malvertising.txt
+https://block.energized.pro/assets/sources/filter/disconnect.me-tracking.txt
+https://block.energized.pro/assets/sources/filter/uassets-annoyances.txt
+https://block.energized.pro/assets/sources/filter/uassets-badware.txt
+https://block.energized.pro/assets/sources/filter/uassets-filters.txt
+https://block.energized.pro/assets/sources/filter/uassets-privacy.txt
 
 whitelist:
 https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
