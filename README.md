@@ -50,6 +50,7 @@ https://block.energized.pro/assets/sources/filter/uassets-filters.txt
 https://block.energized.pro/assets/sources/filter/uassets-privacy.txt
 
 whitelist:
+kissmanga.com
 https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
 
 blacklist:
