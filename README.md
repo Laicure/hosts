@@ -13,7 +13,6 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 
 https://block.energized.pro/assets/sources/filter/adguard-dns.txt
