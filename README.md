@@ -38,9 +38,6 @@ https://block.energized.pro/assets/sources/filter/uassets-privacy.txt
 
 whitelist:
 https://github.com/EnergizedProtection/unblock/raw/master/basic/formats/domains.txt
-
-blacklist:
-ntp.msn.com <- I hate this shit, slowing down the homepage of Microsoft Edge
 ```
 ##### Raw [StevenBlack/hosts' data](https://github.com/StevenBlack/hosts/tree/master/data) sources ([hosts2](https://bitbucket.org/Laicure/public/downloads/hosts2)):
 ```
