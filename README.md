@@ -33,12 +33,11 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
-https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-https://urlhaus.abuse.ch/downloads/hostfile/
+https://urlhaus.abuse.ch/downloads/hostfile
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 ```
