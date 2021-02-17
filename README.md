@@ -4,8 +4,10 @@
 ```
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-http://winhelp2002.mvps.org/hosts.txt
+https://winhelp2002.mvps.org/hosts.txt
+https://orca.pet/notonmyshift/hosts.txt
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://someonewhocares.org/hosts/zero/hosts
@@ -34,8 +36,9 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://winhelp2002.mvps.org/hosts.txt
+https://orca.pet/notonmyshift/hosts.txt
 https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://someonewhocares.org/hosts/zero/hosts
