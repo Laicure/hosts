@@ -1,6 +1,8 @@
-# [HostsY](https://github.com/Laicure/HostsY) and [HostZ](https://github.com/Laicure/HostsZ) generated hosts files
+# [HostZ](https://github.com/Laicure/HostsZ) generated hosts files
 
-##### Custom hosts file's sources ([hosts](https://bitbucket.org/Laicure/public/downloads/hosts)):
+<a href="https://github.com/Laicure/HostsY_hosts/commits/master"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laicure/HostsY_hosts/master.svg"></img></a>
+
+### Custom hosts file's sources ([direct download](https://bitbucket.org/Laicure/public/downloads/hosts)):
 ```
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -22,11 +24,12 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-
+```
 whitelist:
+```
 https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt
 ```
-##### Raw [StevenBlack/hosts' data](https://github.com/StevenBlack/hosts/tree/master/data) sources ([hosts2](https://bitbucket.org/Laicure/public/downloads/hosts2)):
+### Raw [StevenBlack/hosts' data](https://github.com/StevenBlack/hosts/tree/master/data) sources ([direct download](https://bitbucket.org/Laicure/public/downloads/hosts2)):
 ```
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
