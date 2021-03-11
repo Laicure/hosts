@@ -1,6 +1,5 @@
 # [HostZ](https://github.com/Laicure/HostsZ) generated hosts files
-
-<a href="https://github.com/Laicure/HostsY_hosts/commits/master"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/laicure/HostsY_hosts/master.svg"></img></a>
+#### My personal list: [shithosts](https://raw.githubusercontent.com/Laicure/hosts/master/shithosts)
 
 ### Custom hosts file's sources ([direct download](https://bitbucket.org/Laicure/public/downloads/hosts)):
 ```
@@ -17,7 +16,7 @@ https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://urlhaus.abuse.ch/downloads/hostfile/
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 
-https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
