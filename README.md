@@ -1,6 +1,6 @@
 # [HostZ](https://github.com/Laicure/HostsZ) generated hosts files
 #### My personal list: [shithosts](https://raw.githubusercontent.com/Laicure/hosts/master/shithosts)
-_shitlist consist of domains that are popping-up from random sites that I open via mobile; captured by [iOS Adguard](https://github.com/AdguardTeam/AdguardForiOS) or [PersonalDNSFilter](https://github.com/IngoZenz/personaldnsfilter)_
+_**shithosts** consist of domains that are popping-up from random sites that I open via mobile; captured by [iOS Adguard](https://github.com/AdguardTeam/AdguardForiOS) or [PersonalDNSFilter](https://github.com/IngoZenz/personaldnsfilter)_
 
 ### Custom hosts file's sources ([direct download](https://bitbucket.org/Laicure/public/downloads/hosts)):
 ```
