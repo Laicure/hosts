@@ -20,7 +20,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintex
 
 https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
