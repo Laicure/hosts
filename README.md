@@ -24,6 +24,8 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://curben.gitlab.io/malware-filter/phishing-filter-hosts.txt
+https://curben.gitlab.io/malware-filter/pup-filter-hosts.txt
 ```
 whitelist:
 ```
